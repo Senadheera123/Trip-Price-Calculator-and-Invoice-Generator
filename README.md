@@ -2,10 +2,10 @@
 DropMe™ Console Application
 This console application allows passengers to view trip details and generate invoices for the DropMe™ cab service.
 
-#Prerequisites
+**Prerequisites**
 Python 3.x
 
-#Installation
+**Installation**
 Clone or download this repository.
 Open a terminal or command prompt.
 Navigate to the project directory.
@@ -13,7 +13,7 @@ Run the following command to install the required dependencies:
 
 'pip install -r requirements.txt'
 
-#Usage
+**Usage**
 Open a terminal or command prompt.
 Navigate to the project directory.
 Run the following command to start the application:
