@@ -1,24 +1,25 @@
-# Trip-Price-Calculator-and-Invoice-Generator
+# DropMe™ Console Application
 DropMe™ Console Application
-This console application allows passengers to view trip details and generate invoices for the DropMe™ cab service in the Kingdom of Miranda.
+This console application allows passengers to view trip details and generate invoices for the DropMe™ cab service.
 
-Prerequisites
+#Prerequisites
 Python 3.x
-Installation
+
+#Installation
 Clone or download this repository.
 Open a terminal or command prompt.
 Navigate to the project directory.
 Run the following command to install the required dependencies:
-shell
-Copy code
-pip install -r requirements.txt
-Usage
+
+'pip install -r requirements.txt'
+
+#Usage
 Open a terminal or command prompt.
 Navigate to the project directory.
 Run the following command to start the application:
-shell
-Copy code
-python dropme.py
+
+'python dropme.py'
+
 Enter the required information when prompted:
 
 Location: Alvin, Jamz, Razi, Mali, or Zuhar.
